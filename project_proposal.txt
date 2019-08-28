@@ -1,0 +1,24 @@
+Project Summary:
+
+For our project we would like to explore the "data" job market in the US. First, we hope that our analysis can be useful to our class, as some of us are looking for new jobs and starting new careers. This research could also be helpful for employers who are looking to compete in the job market and hire the best employees. 
+
+We would like to work with data from multiple job boards for private sector company information, and if possible, we would like to look at public sector job data as well. Data points we are interested in are: job title, skills required, salary, education required, company name, company industry, job location, work experience required, etc. To visualize the job market, we would like to use geodata and plot job data on a map of the US. As a bonus and if possible, we would like to incorporate cost of living for different regions of the US to allow our users to make better informed decisions about their next job.
+
+Possible sources for this data are: 
+- Job board (Monster, Indeed, Glassdoor, LinkedIn, etc.) CSV files on Kaggle or API requests from the respective websites
+- Jobs data from government websites (ex: Bureau of Labor Statistics)
+- For regional cost of living data, we could use Census CSV files or API requests to obtain relevant data
+
+The tools we aim to use include: 
+- Pandas
+- Matplotlib
+- API requests
+- Gmaps
+
+Questions we hope to answer in our project are: 
+- What companies are hiring the most "data" jobs?
+- What are the different types of "data" roles and what functions do they perform?
+- Where are "data" jobs concentrated? 
+- What skills and education levels are employers looking for in these "data" roles? 
+- What kind of salary can be expected for each type of "data" role?
+- What areas of the US are "best" for me? Are there "data" job markets in some areas of the US that would allow me to get a good salary but have a low cost of living?
