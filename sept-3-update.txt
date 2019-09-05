@@ -1,0 +1,2 @@
+Ellaine's Update:
+I downloaded a file from BLS with estimates of employment figures and salary data from BLS, and cleaned up the data to search for analyst positions in the US. In the code, I have broken down an analysis based on cities, as well as state.
