@@ -1,0 +1,250 @@
+,JobTitle,Company,Cities,State
+0,Data Engineer,"
+    Apple",Santa Clara Valley,CA
+1,Data Engineer,"
+    National Oilwell Varco",Houston,TX
+2,Data Engineer,"
+    Bank of America",Charlotte,NC
+3,Python Developer,"
+    Booz Allen Hamilton",Herndon,VA
+4,Data Scientist,"
+    C.H. Robinson",Eden Prairie,MN
+5,Data Engineer,"
+    NAMCO BANDAI",Santa Clara,CA
+6,Data Engineer,"
+    Intellipro Group Inc.",Santa Clara,CA
+7,Data Engineer,"
+    Walmart eCommerce",Sunnyvale,CA
+8,Data Engineer,,Mountain View,CA
+9,Data Engineer,"
+    BMW North America",Mountain View,CA
+10,Data Engineer,,Mountain View,CA
+11,Data Engineer,,Mountain View,CA
+12,Data Engineer,,Palo Alto,CA
+13,Data Engineer,"
+    National Oilwell Varco",Houston,TX
+14,Data Engineer,,Reston,VA
+15,Data Engineer,,Reston,VA
+16,Data Scientist,"
+    Schneider Electric",Andover,MA
+17,Data Scientist,"
+    Microsoft",Bellevue,WA
+18,Data Engineer,"
+    Apple",Santa Clara Valley,CA
+19,Data Scientist,"
+    Apple",Santa Clara Valley,CA
+20,Data Engineer,"
+    GEICO",Chevy Chase,MD
+21,Data Scientist,"
+    C.H. Robinson",Eden Prairie,MN
+22,Data Engineer,"
+    Bank of America",Charlotte,NC
+23,Data Scientist,"
+    Intel",Phoenix,AZ
+24,Data Engineer,"
+    Transamerica",Plano,TX
+25,Big Data Engineer,"
+    McKinsey & Company",Atlanta,GA
+26,Data Scientist,"
+    Apple",Santa Clara Valley,CA
+27,Data Engineer,"
+    Apple",Santa Clara Valley,CA
+28,Data Scientist,"
+    JP Morgan Chase",Columbus,OH
+29,Data Scientist,"
+    Microsoft",Redmond,WA
+30,Data Scientist,"
+    The Boston Consulting Group",New York,NY
+31,Data Scientist,"
+    General Electric",Evendale,OH
+32,Data Scientist,"
+    CACI",Reston,VA
+33,Data Scientist,"
+    Ford Motor Company",Dearborn,MI
+34,Data Scientist,"
+    Sumeru Solutions",Palo Alto,CA
+35,Data Scientist,"
+    CapTech Consulting",Charlotte,NC
+36,Data Scientist,"
+    MassMutual",Boston,MA
+37,Data Scientist,"
+    Bank of America",Charlotte,NC
+38,Data Scientist,"
+    Intel",Phoenix,AZ
+39,Data Scientist,"
+    Schneider Electric",Andover,MA
+40,Data Scientist,"
+    Ancestry",San Francisco,CA
+41,Data Scientist,"
+    Microsoft",Redmond,WA
+42,Data Scientist,,Austin,TX
+43,Data Scientist,"
+    Citi",Irving,TX
+44,Data Scientist,"
+    Halliburton",Houston,TX
+45,Data Scientist,"
+    JP Morgan Chase",Columbus,OH
+46,Data Scientist,"
+    The Henry M. Jackson Foundation",Bethesda,MD
+47,Data Scientist,"
+    Brookhaven National Laboratory",Upton,NY
+48,Data Scientist,"
+    The Boston Consulting Group",New York,NY
+49,Data Scientist,"
+    LumenData",Santa Clara,CA
+50,Data Scientist,,Dayton,OH
+51,Data Scientist,"
+    General Electric",Evendale,OH
+52,Data Scientist,"
+    Coyote Logistics",Chicago,IL
+53,Data Scientist,"
+    Best Buy",Richfield,MN
+54,Data Scientist,"
+    VideoAmp",Santa Monica,CA
+55,Data Scientist,"
+    Chef'd",El Segundo,CA
+56,Data Scientist,"
+    Beyondsoft Consulting",Redmond,WA
+57,Data Scientist,"
+    CACI",Reston,VA
+58,Data Scientist,"
+    Navstar, Inc.",Reston,VA
+59,Data Scientist,,Palo Alto,CA
+60,Data Scientist,"
+    SAP",Palo Alto,CA
+61,Data Scientist,,Palo Alto,CA
+62,Data Scientist,"
+    Fanatics Inc.",San Mateo,CA
+63,Data Scientist,"
+    Amazon.com",Sunnyvale,CA
+64,Data Scientist,"
+    Ford Motor Company",Dearborn,MI
+65,Data Engineer,"
+    Apple",Santa Clara Valley,CA
+66,Data Scientist,"
+    Fractal Analytics",Jersey City,NJ
+67,Data Scientist,"
+    Infogix",Naperville,IL
+68,Data Scientist,"
+    Diverse Lynx",Santa Clara,CA
+69,Senior Data Engineer,"
+    DISNEY",San Jose,CA
+70,Data Scientist,"
+    First ",Jersey City,NJ
+71,Data Scientist,"
+    McAfee",Santa Clara,CA
+72,Data Scientist,"
+    Huawei",Santa Clara,CA
+73,Data Scientist,"
+    Teradata",Santa Clara,CA
+74,Data Scientist,"
+    Lawrence Livermore National Laboratory (LLNL)",Livermore,CA
+75,Data Scientist,"
+    Workbridge Associates",New York,NY
+76,Data Scientist,"
+    Walmart eCommerce",Sunnyvale,CA
+77,Data Scientist,"
+    Hertz",Estero,FL
+78,Data Scientist,,Santa Monica,CA
+79,Data Scientist,,Santa Monica,CA
+80,Data Scientist,,Santa Monica,CA
+81,Data Scientist,,Santa Monica,CA
+82,Data Scientist,,Santa Monica,CA
+83,Data Scientist,,Santa Monica,CA
+84,Data Scientist,,Santa Monica,CA
+85,Data Scientist,,Santa Monica,CA
+86,Data Scientist,,Santa Monica,CA
+87,Data Scientist,,Santa Monica,CA
+88,Big Data Engineer,,Sunnyvale,CA
+89,Big Data Developer,"
+    Noble Energy, Inc.",Houston,TX
+90,Big Data Engineer,"
+    CapTech Consulting",Reston,VA
+91,Big Data Engineer,,Reston,VA
+92,Big Data Engineer,,Reston,VA
+93,Data Engineer,"
+    ViaSat",Austin,TX
+94,Big Data Engineer,"
+    Zscaler",Atlanta,GA
+95,Big Data Engineer,"
+    KPMG",Atlanta,GA
+96,Data Engineer,"
+    Apple",Santa Clara Valley,CA
+97,Big Data Engineer,,Palo Alto,CA
+98,Big Data Engineer,"
+    Equifax",Alpharetta,GA
+99,Big Data Engineer,"
+    UnitedHealth Group",Eden Prairie,MN
+100,Big Data Engineer,"
+    IBM",Austin,TX
+101,Big Data Engineer,,New York,NY
+102,Big Data Engineer,"
+    Capgemini",New York,NY
+103,Big Data Engineer,"
+    CGI",Bloomfield,CT
+104,Big Data Engineer,"
+    United Airlines Inc.",Houston,TX
+105,Big Data Engineer,"
+    HP",Houston,TX
+106,Big Data Engineer,"
+    Wish",San Francisco,CA
+107,Big Data Developer,"
+    Honeywell",Atlanta,GA
+108,Big Data Engineer,"
+    , Works",Reston,VA
+109,Data Engineer,"
+    GEICO",Chevy Chase,MD
+110,Big Data Engineer,,Alexandria,VA
+111,Big Data Engineer,"
+    SAP",South San Francisco,CA
+112,Big Data Developer,"
+    RBC",Jersey City,NJ
+113,Big Data Engineer,"
+    SparkCognition",Austin,TX
+114,Big Data Engineer,"
+    Symphony Talent",New York,NY
+115,Big Data Engineer,"
+    Clarivate Analytics",Philadelphia,PA
+116,Big Data Engineer,"
+    Cengage",Boston,MA
+117,Big Data Engineer,,Boston,MA
+118,Big Data Developer,"
+    QuintilesIMS",Township of Warren,NJ
+119,Big Data Engineer,,Chantilly,VA
+120,Data Engineer,"
+    Spotify",New York,NY
+121,Big Data Developer,"
+    Avani Tech Solutions",Chicago,IL
+122,Data Engineer,"
+    Bank of America",Charlotte,NC
+123,Big Data Engineer,"
+    Cummins Inc.",Columbus,IN
+124,Big Data Developer,"
+    Voith GmbH",Raleigh,NC
+125,Big Data Engineer,"
+    Realogy Corporate",Emeryville,CA
+126,Big Data Engineer,"
+    Prudential",Newark,NJ
+127,Data Engineer,"
+    The Kraft Group",Foxborough,MA
+128,Data Engineer,"
+    Transamerica",Plano,TX
+129,Data Engineer,"
+    Sportradar",Menlo Park,CA
+130,Data Engineer,,Menlo Park,CA
+131,Big Data Engineer,"
+    MONSANTO",St. Louis,MO
+132,Big Data Developer,"
+    Perficient",Denver,CO
+133,Data Scientist,"
+    The Boston Consulting Group",New York,NY
+134,Data Scientist,"
+    Bank of America",Charlotte,NC
+135,Data Scientist,,New York,NY
+136,Data Scientist,"
+    Best Buy",Richfield,MN
+137,Data Scientist,"
+    SAP",Palo Alto,CA
+138,Data Scientist,,Florianópolis,SC
+139,Data Scientist,,Florianópolis,SC
+140,Data Scientist,,Florianópolis,SC
