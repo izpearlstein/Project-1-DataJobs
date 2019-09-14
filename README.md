@@ -12,7 +12,7 @@ The tools we used to clean and do the analysis include:
 - Wordcloud
 
 How to navigate the repo: 
-- Final notebooks for analysis are in the home directory
+- Final notebooks for analysis are in the notebooks directory
 - Data CSV files are in the Resources folder
 - Saved images of our plots for analysis are in the Images folder
 
